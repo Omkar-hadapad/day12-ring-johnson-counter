@@ -1,4 +1,9 @@
 # Day 12 — Ring Counter and Johnson Counter
+![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
+![Domain](https://img.shields.io/badge/Domain-Digital%20VLSI-orange) 
+![Design](https://img.shields.io/badge/Design-4--bit%20Adder%2FSubtractor-green)
+![Tool](https://img.shields.io/badge/Synthesis-Cadence%20Genus-red)
+
 
 <p align="center">
   <b>Digital VLSI • Verilog RTL • Sequential Logic • Functional Verification • Cadence Genus</b>
@@ -1152,6 +1157,30 @@ SDM Institute of Technology, Ujire, Karnataka
 **Technical Focus:** Digital VLSI • Verilog HDL • RTL Design • ASIC Design • Design Verification • Cadence Genus • Cadence Innovus • PPA Analysis
 
 ---
+
+## 26. Next Project --- Day 13
+
+###  DAY 13 - PWM GENERATOR
+
+The next project extends counter design by adding a direction control.
+
+``` text
+Direction control
+       ↓
+Up-count / Down-count next-state logic
+       ↓
+4-bit register
+       ↓
+Reset behavior
+       ↓
+Verification of rollover and underflow
+       ↓
+Synthesis and PPA analysis
+```
+
+The Day-13 focus is to understand up-counting, down-counting, rollover,
+underflow, reset behavior, and verification of both operating
+directions.
 
 <p align="center">
   <b>DAY 12 — RING COUNTER AND JOHNSON COUNTER</b>
