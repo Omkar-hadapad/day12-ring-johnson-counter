@@ -1162,21 +1162,9 @@ SDM Institute of Technology, Ujire, Karnataka
 
 ###  DAY 13 - PWM GENERATOR
 
-The next project extends counter design by adding a direction control.
 
-``` text
-Direction control
-       ↓
-Up-count / Down-count next-state logic
-       ↓
-4-bit register
-       ↓
-Reset behavior
-       ↓
-Verification of rollover and underflow
-       ↓
-Synthesis and PPA analysis
-```
+
+
 
 The Day-13 focus is to understand up-counting, down-counting, rollover,
 underflow, reset behavior, and verification of both operating
